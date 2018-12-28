@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoaMoa</string>
+    <string name="tab_text_1">학교 정보</string>
+    <string name="tab_text_2">대회 정보</string>
+    <string name="tab_text_3">강연 정보</string>
+    <string name="tab_text_4">장학금정보</string>
+    <string name="tab_text_5">취업 정보</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
